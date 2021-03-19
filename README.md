@@ -12,6 +12,3 @@
 [My email](mailto: xboxcowboy911@gmail.com)
 
 © 2021 Dokk
-=======
-* .gitignore file itself
->>>>>>> 476bf11b11bd55d111905cc0a02f86396983ed79
